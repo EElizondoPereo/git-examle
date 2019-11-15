@@ -1,2 +1,2 @@
 # git-examle
-an example project fro a class
+an example project for a course on DevOps
